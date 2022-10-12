@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 
@@ -11,3 +12,10 @@ It is a beautiful day today!
 
 
 
+=======
+main
+Let´s add some changes to this file and commit them.
+
+It is a beautiful day today!
+feature-1
+>>>>>>> 9ae4445f6f535235594a92706d5bb357c13e2a04
