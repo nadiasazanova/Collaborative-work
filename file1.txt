@@ -1,1 +1,2 @@
-This is the new file, where you can save any information you need. 
+This is the new file, where you can save any information you need.
+A new line should be added in this file.
