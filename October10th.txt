@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 The weather today is beautiful!
+=======
+It is a beautiful day today!
+>>>>>>> feature-1
